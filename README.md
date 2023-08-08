@@ -1,6 +1,6 @@
 ## COVID-19 Cases Tracker
 
-### DEMO
+### Demo
 
 - Check out my COVID19 cases tracker at:
   - [COVID19-Tracker](track-covid19-jastudio.netlify.app/)
